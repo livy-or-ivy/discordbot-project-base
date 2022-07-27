@@ -1,0 +1,18 @@
+{
+  "name": "your_bot_name_here_without_spaces",
+  "version": "your bot version here, example 1.0.0",
+  "description": "your bot description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "undefined"
+  },
+  "author": "your discord or your name whatever",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}
