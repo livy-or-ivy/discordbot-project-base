@@ -9,7 +9,7 @@ Because this i was created this repo with the base of a bot to discord, easy to 
 For this you need know how use discord api, and JavaScript, search for tutorials
 
 # What apps i need to program like a professional?
-you need a code viewer (i recommend visual studio code) and node.js
+you need a code viewer (i recommend visual studio code) and nodejs.
 to host your bot on heroku you need more two apps, heroku cli and git.
 
 # Ok i have all this, how i turn my bot on?
